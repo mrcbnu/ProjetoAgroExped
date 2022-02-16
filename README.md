@@ -5,7 +5,7 @@
 
 ## Sobre o projeto
 
-Este projeto é uma aplicação avaliativa do modulo Programção Web do curso de Analise e Desenvolvimento de Sistemas, utilizando o Framework Laravel. É o inicio de uma nova fase de um projeto que está em andamento na empresa em que trabalho. Esse projeto automatiza algumas rotinas que demandava tempo. 
+Este projeto é uma aplicação avaliativa do modulo Programação Web do curso de Analise e Desenvolvimento de Sistemas da Uniavan, utilizando o Framework Laravel. É o inicio de uma nova fase de um projeto que está em andamento na empresa em que trabalho. Esse projeto automatiza algumas rotinas que demandava tempo. 
 
 ### O que se pretende implementar nesse projeto:
 
