@@ -13,20 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+use App\Http\Controllers\ExpedController;
 
-
-Route::get('/', function() {
-    return view('welcome');
-});
-
-Route::get('/ordem', function () {
-    return view('ordem');
-});
-
-Route::get('/programacao', function () {
-    return view('programacao');
-});
-
-Route::get('/comprovante', function () {
-    return view('comprovante');
-});
+Route::get('/', [ExpedController::class, 'index']);
+Route::get('/ordem', [ExpedController::class, 'ordem']);
+Route::get('/programacao', [ExpedController::class, 'programacao']);
+Route::get('/comprovante', [ExpedController::class, 'comprovante']);

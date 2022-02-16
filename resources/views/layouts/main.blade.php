@@ -45,5 +45,6 @@
         <footer>
             <p> AV1 - PROGRAMAÇÃO WEB &copy; 2022</p>
         </footer>
+        <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     </body>
 </html>
